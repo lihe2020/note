@@ -1,0 +1,40 @@
+<mxfile host="" modified="2020-05-31T06:04:06.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="dqIL1RUkEkott_5uGzmQ" version="13.1.3">
+    <diagram id="u9YUbKot9WvX7fJKGwTH" name="第 1 页">
+        <mxGraphModel dx="568" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="270" width="390" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="265" y="375" width="20" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font color=&quot;#000000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Eden&lt;/b&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#e18c31;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="270" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#000000&quot;&gt;S0&lt;br&gt;(from)&lt;br&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#de6f75;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="350" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#000000&quot;&gt;S1&lt;br&gt;(to)&lt;br&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#de6f75;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="350" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Old Gen&lt;/b&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#67a7f5;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="270" width="120" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font color=&quot;#000000&quot; style=&quot;line-height: 200%&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;Metaspace&lt;/b&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#e9e9e9;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="270" width="120" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="325" y="125" width="20" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="年轻代" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="460" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="堆空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="233" width="50" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,28 @@
+<mxfile host="" modified="2020-05-31T07:52:13.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="KnrXQdtX---6WhuULhw-" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="610" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="120" width="700" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Method&lt;br&gt;Area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="160" width="120" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Heap&lt;br&gt;Aera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="160" width="120" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Thread 1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="410" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 1&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 2&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 4&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 5&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 7&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 8&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="160" width="230" height="180" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
